@@ -126,6 +126,28 @@ faq:
 
 ---
 
+## কমন প্রবলেমস: BD/Asian স্টুডেন্টস ফেস + সলুশন
+
+**১. ভালো হলে রিডিং-ও ভালো (skill transfer)**
+- রাইটিং-এ শেখা **argument structure, description structure, signals/signposting** (however, therefore, in addition) রিডিং-এও কাজে লাগে — টেক্সট কীভাবে সাজানো তা চিনতে। তাই একবার সাইনপোস্টিং লিস্ট (BBC 6 Minute Vocabulary) রপ্ত করলে দুই মডিউলেই লাভ।
+
+**২. Idea না আসে**
+- **সলুশন:** স্পিকিং মাস্টারের **Coffee Shop Method** — বন্ধুর সাথে রিল্যাক্সড কথা বলছেন এমন ভাবুন। রট করবেন না, নিজের মত সোজা লিখুন।
+
+**৩. Spelling mistakes**
+- **সলুশন:** রোজ ১০টা কঠিন শব্দ লিখুন (accommodation, favourite, neighbour, environment, Wednesday, restaurant, library)।
+
+**৪. Typing speed কম (computer-based)**
+- **সলুশন:** রোজ ১০ মিনিট টাইপিং প্র্যাকটিস। আর simple words ইউজ করুন — কম টাইপ করতে হবে, ভুলও কম হবে।
+
+**৫. Grammar mistakes (কিছু specific grammar enough)**
+- ব্যান্ড ৭ চায় "variety of complex structures + frequent error-free" — সব না, কয়েকটা অ্যাকুরেট শিখলেই হয়:
+  - **Relative clauses:** who/which/that; non-defining-এ comma + which (The internet, which was invented..., not "that")।
+  - **Conditionals:** If + present → will; Unless / Provided that।
+  - **Passive voice:** A lot of information is consumed on the internet.
+  - **Cleft sentences:** It is X that... / What... is...
+  - **Articles + Subject-verb agreement:** the/a/an আর singular-plural সাবধানে।
+
 ## ১-সপ্তাহ প্ল্যান
 
 - **দিন ১:** ৫ essay type চিনুন + structure লিখুন।

@@ -119,6 +119,24 @@ faq:
 
 ---
 
+## কমন প্রবলেমস: BD/Asian স্টুডেন্টস ফেস + সলুশন
+
+**১. Pronunciation / phonetics gap (/v/, /w/, /θ/, /r/-/l/, vowel)**
+- **সমস্যা:** বাংলা স্পিকারদের উচ্চারণ গ্যাপ থাকে → Pronunciation ব্যান্ড কমে (clear হতে হবে, অ্যাকসেন্ট না)।
+- **সলুশন:** **Duolingo English minimal pairs** রোজ ১০ মিনিট। অ্যাকসেন্ট না, clear থাকলেই ৭।
+
+**২. Hesitation / repetition (fluency ভাঙে)**
+- **সলুশন:** **PEEL** + buy-time phrases (Well... / Actually... / Let me see...)। রিল্যাক্সড ফ্রেমিং।
+
+**৩. Memorised answers**
+- **সলুশন:** নিজের কথা বলুন। রট করা উত্তর বুঝলে ব্যান্ড কাটে (descriptor-এ সরাসরি উল্লেখ)।
+
+**৪. Grammar in speech**
+- **সলুশন:** রিলেটিভ ক্লজ আর কন্ডিশনাল স্পিচেও ইউজ করুন (Part 2/3) → "frequent error-free sentences"। পারফেক্ট না, সোজা ঠিকঠাক।
+
+**৫. প্যানিক**
+- **সলুশন:** **Breathing 333** (inhale 3, hold 3, exhale 3, hold 3) পরীক্ষার আগে ২ মিনিট।
+
 ## ১-সপ্তাহ প্ল্যান
 
 - **দিন ১:** Part 1 কমন টপিক লিস্ট + আইডিয়া।
