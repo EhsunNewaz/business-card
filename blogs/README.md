@@ -1,10 +1,26 @@
-# IELTS Blog Series — Bangla (মাদারি স্টাইল)
+# IELTS Content System — Bangla (মাদারি স্টাইল)
 
-চারটা মডিউলের ব্লগ, IELTS Jacky + IELTS Simon-এর সহজ ক্লিয়ার পদ্ধতি অনুসরণ করে লেখা। টার্গেট ল্যাঙ্গুয়েজ: কলোকোয়াল বাংলা, ইংরেজি টার্ম স্পারিংলি।
+এটা একটা **কমপ্লিট কনটেন্ট সিস্টেম** (৩ টায়ার):
 
-প্রতিটা ফাইলে SEO (title, slug, meta), AEO (FAQ schema-র জন্য প্রশ্নোত্তর), আর ফ্রন্ট-ম্যাটার আছে।
+- **Tier 0 — Master Write-up** (`../master/`): অথরিটেটিভ, কমপ্রিহেনসিভ নলেজ বেস। "১০-মিনিট গাইড" স্টাইল, কোটেড official band descriptors + কোশ্চেন/পার্ট-ওয়াইজ স্ট্রাটেজি। সোর্স অফ ট্রুথ।
+- **Tier 1 — Derived Blog** (`blogs/01..04`): ইঞ্গেজিং, কলোকোয়াল বাংলা ব্লগ। মাস্টার থেকে স্পিন-অফ।
+- **Tier 2 — Template** (`../templates/blog-template.md`): দ্রুত প্রডাকশন স্কেলটন।
 
-## ফাইল লিস্ট
+---
+
+## Tier 0 — Master Write-ups (`master/`)
+
+| # | মডিউল | ফাইল | Slug |
+|---|-------|------|------|
+| ০ | Framework (আর্কিটেকচার/চার্ট) | `master/00-master-framework.md` | `ielts-complete-solution-master-framework` |
+| ১ | Writing | `master/01-writing-master.md` | `ielts-writing-10-minute-master-guide-bangla` |
+| ২ | Speaking | `master/02-speaking-master.md` | `ielts-speaking-10-minute-master-guide-bangla` |
+| ৩ | Reading | `master/03-reading-master.md` | `ielts-reading-10-minute-master-guide-bangla` |
+| ৪ | Listening | `master/04-listening-master.md` | `ielts-listening-10-minute-master-guide-bangla` |
+
+প্রতিটা মাস্টার ডকে: কনটেক্সট → মাস্ট-নো ফ্যাক্টস → ওভারঅল ট্যাকলিং স্ট্রাটেজি → কোশ্চেন/পার্ট-ওয়াইজ স্ট্রাটেজি → টিপস অ্যান্ড ট্রিকস → ১-সপ্তাহ প্ল্যান। অথরিটি: official band descriptors (কোট) + Pauline Cullen (The Key to IELTS Success ফ্রি PDF) + Chris Pell (IELTS Advantage)।
+
+## Tier 1 — Derived Blogs (`blogs/`)
 
 | # | মডিউল | ফাইল | Slug |
 |---|-------|------|------|
@@ -13,15 +29,7 @@
 | ৩ | Reading | `03-ielts-reading.md` | `ielts-reading-7-band-guide-bangla` |
 | ৪ | Listening | `04-ielts-listening.md` | `ielts-listening-7-band-guide-bangla` |
 
-## প্রতিটা ব্লগের স্ট্রাকচার (রিপিটেবল প্যাটার্ন)
-
-1. **Hook** — "চলো দেখি, ব্রান কিভাবে এটা করে" + পার্সোনাল স্টোরি
-2. **কনটেক্সট** — মডিউল কী, ফরম্যাট, ব্যান্ড ম্যাপিং (আগে কনটেক্সট, তারপর অ্যাডভাইস)
-3. **আসল সমস্যা** — কেন লোকে মার্ক হারায়
-4. **ফ্রেমওয়ার্ক** — নাম্বারড স্টেপ (Simon/Jacky ক্লিয়ারিটি)
-5. **Common Mistakes** — ৫-আইটেম লিস্ট
-6. **৭ দিনের প্ল্যান** + **এক্সাম-ডে চেকলিস্ট**
-7. **FAQ** (AEO) + লাইভলি ক্লোজিং
+প্রতিটা ব্লগে SEO (title, slug, meta), AEO (FAQ), ফ্রন্ট-ম্যাটার আছে। স্ট্রাকচার: Hook → কনটেক্সট → সমস্যা → ফ্রেমওয়ার্ক → Common Mistakes → ৭-দিন প্ল্যান → চেকলিস্ট → FAQ।
 
 ## নতুন ব্লগ দ্রুত বানাতে
 
