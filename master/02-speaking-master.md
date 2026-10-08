@@ -116,6 +116,7 @@ faq:
 - **Less common words** স্পর্শমাত্র: "compelling", "thought-provoking", "switch off"।
 - **Pronunciation:** stress + intonation — flat tone মনোটোনাস।
 - **Smile:** রিল্যাক্স দেখায়, fluency-এ সাহায্য করে।
+- **Natural spoken language > formula:** Pauline Cullen সতর্ক — "always 3 sentences / 1 detail / 1 example" বা "idiom দিয়ে boost" টিপস রট করা উত্তরের মতো unnatural করে। সোজা কথা বলুন; এক্সামিনার টেস্ট কন্ট্রোল করে, আপনি না। PEEL হলো ভাবার scaffold, রিগিড রুল না।
 
 ---
 

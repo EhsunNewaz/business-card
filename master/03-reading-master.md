@@ -100,6 +100,13 @@ Pauline Cullen-এর ইনসাইট: "you cannot guess the answer without r
 
 Cullen-এর *The Key to IELTS Success* বলে: রিডিং-এর কোর হলো **micro-skills** — প্রতিটা question type-এর ছোট ছোট স্কিল আলাদা (skimming, scanning, paraphrasing, locating info)। শুধু "ভোকাবুলারি বাড়ানো" না, টেকনিক রপ্ত করুন। আর authentic IELTS material-এ "answer without reading guess করা যায় না" — তাই পড়তে হবেই, কিন্তু স্ট্রাটেজিক ভাবে।
 
+**Cullen যা critique করেন (আমাদের কনটেন্টের সাথে মেলানো জরুরি):**
+- **"শুধু word match করে stop"** — synonym/paraphrase চেনা মানে শুধু বুঝা উত্তরটা **কোথায়** (locate), উত্তর না। locate করে তারপর detail-এ পড়তে হবে।
+- **"reading ছাড়াই ৮০% answer"** — তিনি বলেন এটা invalid/unreliable; real test জোর করায় পড়তে।
+- **কোশ্চেন অর্ডারে উত্তর দিন** — IELTS ফেয়ার, লজিক্যাল অর্ডারে সাজায়; প্রিয় টাইপ আগে করতে গেলে টাইম নষ্ট।
+- উপরের "Synonym radar" টিপ সাবধানে ইউজ করবেন — এটা **locating টুল, shortcut না**। paraphrase চিনবেন, কিন্তু মিলে গেলেই থেমে থাকবেন না।
+- **Fact vs fiction:** ক্যামব্রিজ টেস্ট বই ছাড়া "real recent tests" নামে ডাউনলোড করা ম্যাটেরিয়াল বিশ্বাস করবেন না — Cullen সরাসরি সতর্ক।
+
 ---
 
 ## কমন প্রবলেমস: BD/Asian স্টুডেন্টস ফেস + সলুশন

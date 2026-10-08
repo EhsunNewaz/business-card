@@ -144,9 +144,11 @@ faq:
 - ব্যান্ড ৭ চায় "variety of complex structures + frequent error-free" — সব না, কয়েকটা অ্যাকুরেট শিখলেই হয়:
   - **Relative clauses:** who/which/that; non-defining-এ comma + which (The internet, which was invented..., not "that")।
   - **Conditionals:** If + present → will; Unless / Provided that।
-  - **Passive voice:** A lot of information is consumed on the internet.
+  - **Passive voice:** A lot of information is consumed on the internet. (Academic Task 1-এ দরকার, কিন্তু Task 2-এ "must only use passive" টিপস মানবেন না — Pauline Cullen সতর্ক, অপ্রাসঙ্গিক প্যাসিভ টোন খারাপ করে)।
   - **Cleft sentences:** It is X that... / What... is...
-  - **Articles + Subject-verb agreement:** the/a/an আর singular-plural সাবধানে।
+  - **Articles + Subject-verb agreement:** the/a/an আর singular-plural সাবধানে (বাংলায় articles নাই, তাই BD ছাত্রদের সবচেয়ে কমন ভুল)।
+- **Fossilised errors:** আগের লেখা রিভিউ করুন আর বারবার হওয়া একই ভুল (articles, SVA, preposition) খুঁজে বের করুন — Cullen-এর মতে বারবার প্র্যাকটিস করলে ভুল 'ফসিল' হয়ে যায়।
+- **Cullen-এর কোর মেসেজ:** "ব্যান্ড ৭ পেতে হলে band 7 language skills অর্জন করতে হবে" — কোনো quick fix নাই। ছোট শব্দই ফাইন; লং/এক্সট্রিম শব্দ ('soar', 'controversial', 'plunge') জোর করে ইউজ করবেন না, টোন খারাপ করে।
 
 ## ১-সপ্তাহ প্ল্যান
 
