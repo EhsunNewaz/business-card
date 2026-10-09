@@ -1,10 +1,10 @@
 ---
-title: "১০-মিনিট গাইড টু IELTS Writing — Master Write-up"
-slug: "ielts-writing-10-minute-master-guide-bangla"
-meta_title: "IELTS Writing 10-Minute Master Guide Bangla | Band 7 Strategy + Official Descriptors"
-meta_description: "IELTS Writing-এর কমপ্লিট মাস্টার গাইড বাংলায়। ৫ essay type, Task 1, official band 7 descriptors (কোট), Pauline Cullen স্ট্রাটেজি, আর question/type-wise সলুশন।"
-keywords: ["ielts writing master", "ielts writing band 7", "ielts task 2 types", "pauline cullen", "ielts writing strategy"]
-focus_keyword: "ielts writing master guide"
+title: "A Complete Guide to IELTS Writing for Bangladeshi Students"
+slug: "complete-guide-ielts-writing-bangladeshi-students"
+meta_title: "A Complete Guide to IELTS Writing for Bangladeshi Students | Band 7"
+meta_description: "A complete guide to IELTS Writing for Bangladeshi students — ৫টা essay type, Task 1, official band 7 descriptors (কোট), Pauline Cullen স্ট্রাটেজি, question/type-wise সলুশন, বাংলায়।"
+keywords: ["complete guide to ielts writing", "ielts writing bangladeshi students", "ielts writing band 7", "ielts task 2 types", "pauline cullen"]
+focus_keyword: "ielts writing guide for bangladeshi students"
 module: "Writing"
 word_count: 2100
 faq:
@@ -18,7 +18,9 @@ faq:
     answer: "তিনি micro-skills আর active vocabulary-এর কথা বলেন—শুধু শব্দ মুখস্থ না, context-এ collocation শিখুন (make a decision, heavy traffic)। আর ছোট ছোট স্কিলে ভাঙ্গুন (planning, paraphrasing, linking)।"
 ---
 
-# ১০-মিনিট গাইড টু IELTS Writing — Master Write-up
+# A Complete Guide to IELTS Writing for Bangladeshi Students
+
+> ওয়ার্কিং টাইটেল (আগের): ১০-মিনিট গাইড টু IELTS Writing — Master Write-up
 
 আপনি ইংরেজিতে ভালো, ১ সপ্তাহে টেস্ট দেবেন। তাহলে ল্যাঙ্গুয়েজ না শিখে **টেস্ট টেকনিক** শিখুন—এটাই ৬.৫ থেকে ৭.৫ নিয়ে যায়। নিচে একদম ক্লিয়ার ডক।
 

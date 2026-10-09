@@ -1,10 +1,10 @@
 ---
-title: "১০-মিনিট গাইড টু IELTS Speaking — Master Write-up"
-slug: "ielts-speaking-10-minute-master-guide-bangla"
-meta_title: "IELTS Speaking 10-Minute Master Guide Bangla | PEEL + Band 7 Descriptors"
-meta_description: "IELTS Speaking-এর কমপ্লিট মাস্টার গাইড বাংলায়। Part 1/2/3 strategy, PEEL structure, থিংক-ফাস্ট ট্রিকস, official band 7 descriptors (কোট), আর ১-সপ্তাহ প্ল্যান।"
-keywords: ["ielts speaking master", "ielts speaking peEL", "ielts speaking part 2", "ielts band 7 speaking", "chris pell coffee shop"]
-focus_keyword: "ielts speaking master guide"
+title: "A Complete Guide to IELTS Speaking for Bangladeshi Students"
+slug: "complete-guide-ielts-speaking-bangladeshi-students"
+meta_title: "A Complete Guide to IELTS Speaking for Bangladeshi Students | Band 7"
+meta_description: "A complete guide to IELTS Speaking for Bangladeshi students — Part 1/2/3 strategy, PEEL structure, think-fast ট্রিকস, official band 7 descriptors (কোট), আর ১-সপ্তাহ প্ল্যান, বাংলায়।"
+keywords: ["complete guide to ielts speaking", "ielts speaking bangladeshi students", "ielts speaking part 2", "ielts band 7 speaking", "ielts speaking strategy"]
+focus_keyword: "ielts speaking guide for bangladeshi students"
 module: "Speaking"
 word_count: 2000
 faq:
@@ -18,7 +18,9 @@ faq:
     answer: "Examiner বুঝে ফেললে ব্যান্ড কাটে (band 0 risk for memorised response per descriptor)। নিজের কথা সোজা বলুন, রট করবেন না।"
 ---
 
-# ১০-মিনিট গাইড টু IELTS Speaking — Master Write-up
+# A Complete Guide to IELTS Speaking for Bangladeshi Students
+
+> ওয়ার্কিং টাইটেল (আগের): ১০-মিনিট গাইড টু IELTS Speaking — Master Write-up
 
 স্পিকিং আসলে পরীক্ষা না, একটা কথোপকথন। আপনি ইংরেজিতে ভালো হলে ৭ ব্যান্ড স্রেফ **স্ট্রাকচার + থিংক-ফাস্ট** শিখলেই। নিচে ক্লিয়ার ডক।
 

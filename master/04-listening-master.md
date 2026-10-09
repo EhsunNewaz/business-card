@@ -1,10 +1,10 @@
 ---
-title: "১০-মিনিট গাইড টু IELTS Listening — Master Write-up"
-slug: "ielts-listening-10-minute-master-guide-bangla"
-meta_title: "IELTS Listening 10-Minute Master Guide Bangla | Prediction + Section Strategy"
-meta_description: "IELTS Listening-এর কমপ্লিট মাস্টার গাইড বাংলায়। ৪ sections, audio once, prediction strategy (Chris Pell), section-wise + question-type-wise সলুশন, spelling, আর ১-সপ্তাহ প্ল্যান।"
-keywords: ["ielts listening master", "ielts listening prediction", "ielts listening spelling", "chris pell listening", "ielts listening strategy"]
-focus_keyword: "ielts listening master guide"
+title: "A Complete Guide to IELTS Listening for Bangladeshi Students"
+slug: "complete-guide-ielts-listening-bangladeshi-students"
+meta_title: "A Complete Guide to IELTS Listening for Bangladeshi Students | Band 7"
+meta_description: "A complete guide to IELTS Listening for Bangladeshi students — ৪ section, audio once, prediction strategy (Chris Pell), section-wise + question-wise সলুশন, spelling, আর ১-সপ্তাহ প্ল্যান।"
+keywords: ["complete guide to ielts listening", "ielts listening bangladeshi students", "ielts listening prediction", "ielts listening spelling", "ielts listening strategy"]
+focus_keyword: "ielts listening guide for bangladeshi students"
 module: "Listening"
 word_count: 2000
 faq:
@@ -18,7 +18,9 @@ faq:
     answer: "Chris Pell বলেন বাস্তব জীবন চুপচাপ রুম না—তাই হালকা noise-এ প্র্যাকটিস করুন যাতে exam-এর ক্যাফে/হলের আওয়াজে ভেঙ্গে না পড়েন।"
 ---
 
-# ১০-মিনিট গাইড টু IELTS Listening — Master Write-up
+# A Complete Guide to IELTS Listening for Bangladeshi Students
+
+> ওয়ার্কিং টাইটেল (আগের): ১০-মিনিট গাইড টু IELTS Listening — Master Write-up
 
 লিসেনিং আসলে "শোনার" পরীক্ষা না, **"আগে থেকে অনুমান করার"** পরীক্ষা। Audio একবার শোনায়, তাই prediction জিতিয়ে দেয়। নিচে মাস্ট-নো ডক।
 

@@ -1,10 +1,10 @@
 ---
-title: "IELTS Complete Solution — Master Framework (চার্ট/আর্কিটেকচার)"
-slug: "ielts-complete-solution-master-framework"
-meta_title: "IELTS Complete Solution Framework Bangla | 4 Module Master Guides"
-meta_description: "IELTS-এর চার মডিউলের কমপ্লিট কনটেন্ট আর্কিটেকচার — স্কোপ ম্যাপ, অথরিটেটিভ সোর্স (official band descriptors, Pauline Cullen, Chris Pell), আর ১-সপ্তাহের প্ল্যান।"
-keywords: ["ielts complete solution", "ielts study plan", "pauline cullen", "chris pell", "ielts band 7"]
-focus_keyword: "ielts complete solution"
+title: "A Complete Guide to IELTS Preparation for Bangladeshi Students"
+slug: "complete-guide-ielts-preparation-bangladeshi-students"
+meta_title: "A Complete Guide to IELTS Preparation for Bangladeshi Students"
+meta_description: "বাংলাদেশি শিক্ষার্থীদের জন্য IELTS প্রস্তুতির কমপ্লিট গাইড — ৪ মডিউলের মাস্টার ফ্রেমওয়ার্ক, স্কোপ ম্যাপ, অথরিটেটিভ সোর্স (official band descriptors, Pauline Cullen, Chris Pell), আর ১-সপ্তাহের প্ল্যান।"
+keywords: ["complete guide to ielts preparation", "ielts preparation bangladeshi students", "ielts study plan", "ielts bangladesh", "ielts band 7"]
+focus_keyword: "ielts preparation for bangladeshi students"
 module: "Framework"
 word_count: 900
 faq:
@@ -16,7 +16,9 @@ faq:
     answer: "official IELTS band descriptors (public version) কোট করে, Pauline Cullen-এর The Key to IELTS Success (ফ্রি PDF) + Official Cambridge Guide থেকে স্ট্রাটেজি নিয়ে, আর Chris Pell (IELTS Advantage)-এর লিসেনিং মাস্টারক্লাস প্রিন্সিপল যুক্ত করে।"
 ---
 
-# IELTS Complete Solution — Master Framework (চার্ট/আর্কিটেকচার)
+# A Complete Guide to IELTS Preparation for Bangladeshi Students
+
+> ওয়ার্কিং টাইটেল (আগের): IELTS Complete Solution — Master Framework (চার্ট/আর্কিটেকচার)
 
 আগে স্ট্রাকচারটা বুঝে নিই। আপনি ইংরেজিতে ভালো, ১ সপ্তাহ প্রিপ নেবেন, টেস্ট দেবেন। তাই আপনার দরকার "ইনক্রিমেন্টাল ডিফিকাল্টি কী, পাসেজ নাকি কোশ্চেন আগে, কতগুলো কোশ্চেন টাইপ, ওভারঅল স্ট্রাটেজি + কোশ্চেন-ওয়াইজ স্ট্রাটেজি" — একদম ক্লিয়ার ডক। নিচে ওই কমপ্লিট সিস্টেম।
 
