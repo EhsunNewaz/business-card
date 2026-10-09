@@ -1,10 +1,10 @@
 ---
-title: "১০-মিনিট গাইড টু IELTS Reading — Master Write-up"
-slug: "ielts-reading-10-minute-master-guide-bangla"
-meta_title: "IELTS Reading 10-Minute Master Guide Bangla | 11 Question Types + Strategy"
-meta_description: "IELTS Reading-এর কমপ্লিট মাস্টার গাইড বাংলায়। incremental difficulty, passage vs question first, ১১ official question types, type-wise strategy, Pauline Cullen স্ট্রাটেজি, আর ১-সপ্তাহ প্ল্যান।"
-keywords: ["ielts reading master", "ielts reading question types", "true false not given", "ielts reading strategy", "pauline cullen reading"]
-focus_keyword: "ielts reading master guide"
+title: "A Complete Guide to IELTS Reading for Bangladeshi Students"
+slug: "complete-guide-ielts-reading-bangladeshi-students"
+meta_title: "A Complete Guide to IELTS Reading for Bangladeshi Students | 11 Types"
+meta_description: "A complete guide to IELTS Reading for Bangladeshi students — incremental difficulty, passage নাকি question আগে, ১১টা official question type, type-wise strategy, Pauline Cullen, বাংলায়।"
+keywords: ["complete guide to ielts reading", "ielts reading bangladeshi students", "ielts reading question types", "true false not given", "ielts reading strategy"]
+focus_keyword: "ielts reading guide for bangladeshi students"
 module: "Reading"
 word_count: 2200
 faq:
@@ -18,7 +18,9 @@ faq:
     answer: "True = টেক্সটে আছে; False = উল্টো কথা আছে; Not Given = বিষয়টাই টেক্সটে নাই। লোকে Not Given বুঝতে ভুল করে—মনে রাখুন, টেক্সটে না থাকলেই Not Given (বাইরের জ্ঞান না)।"
 ---
 
-# ১০-মিনিট গাইড টু IELTS Reading — Master Write-up
+# A Complete Guide to IELTS Reading for Bangladeshi Students
+
+> ওয়ার্কিং টাইটেল (আগের): ১০-মিনিট গাইড টু IELTS Reading — Master Write-up
 
 রিডিং আসলে "পড়ার" পরীক্ষা না, "খোঁজার" পরীক্ষা। আপনি ইংরেজিতে ভালো হলে বাধা শুধু **টাইম + স্ট্রাটেজি**। নিচে মাস্ট-নো ডক।
 
