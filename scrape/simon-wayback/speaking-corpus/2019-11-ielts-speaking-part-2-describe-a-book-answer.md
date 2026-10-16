@@ -1,0 +1,52 @@
+---
+title: "IELTS Speaking Part 2: 'describe a book' answer"
+slug: "ielts-speaking-part-2-describe-a-book-answer"
+category: "IELTS Speaking"
+published_month: "2019-11"
+published: ""
+comments: 4
+url: "https://www.ielts-simon.com/ielts-help-and-english-pr/2019/11/ielts-speaking-part-2-describe-a-book-answer.html"
+wayback: "https://web.archive.org/web/2021/https://www.ielts-simon.com/ielts-help-and-english-pr/2019/11/ielts-speaking-part-2-describe-a-book-answer.html"
+source: "atom-feed (compact)"
+scraped: 2026-10-16
+---
+
+# IELTS Speaking Part 2: 'describe a book' answer
+
+**Original:** https://www.ielts-simon.com/ielts-help-and-english-pr/2019/11/ielts-speaking-part-2-describe-a-book-answer.html
+**Archived:** https://web.archive.org/web/2021/https://www.ielts-simon.com/ielts-help-and-english-pr/2019/11/ielts-speaking-part-2-describe-a-book-answer.html
+**Published:** 2019-11 · **Comments:** 4
+
+## Comments
+
+### Hannah — 2019-11-14T00:55:52Z (edited 2019-11-14T15:13:56Z)
+
+May i ask which one below is grammatically right?
+
+\- I realised that I'm nowhere ...
+
+\- I realised that I was nowhere ...
+
+Many thanks.
+
+### Simon — 2019-11-10T21:34:57Z (edited 2019-11-11T14:37:53Z)
+
+FROM SIMON:
+
+Yes, read it Jessica!
+
+...
+
+China Candidate,
+
+My answer is supposed to act as a 'model', and I wouldn't expect a student to be able to answer at this level or with this amount of detail in a real test.
+
+So, don't worry about whether it's realistic to give an answer like mine. Just use it for what it can teach you (e.g. vocabulary ideas and how I express them). If I gave you a low-level answer from a student, you wouldn't learn very much.
+
+### China Candidate — 2019-11-09T14:21:55Z (edited 2019-11-11T14:37:53Z)
+
+Are there too many words that can't be expressed within the limited of time? We are not native speakers and naturally speak at a lower speed regardless of how hard we have practised.
+
+### Jessica — 2019-11-08T23:52:51Z (edited 2019-11-09T14:15:11Z)
+
+It makes me want to read this book!
