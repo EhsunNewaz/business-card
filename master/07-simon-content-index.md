@@ -166,6 +166,9 @@ Be a good model · Teaching grammar · The importance of input · Building a mat
 
 **Band Descriptors (৭):** [Overview of scoring](https://ielts-simon.study/overview-of-task-2-scoring/) · [The grammar score](https://ielts-simon.study/the-grammar-score/) · [Task response](https://ielts-simon.study/task-response/) · [Coherence and cohesion](https://ielts-simon.study/coherence-and-cohesion/) · [Lexical resource](https://ielts-simon.study/lexical-resource/) · [Scoring an essay](https://ielts-simon.study/scoring-an-essay/) · [Improving an essay](https://ielts-simon.study/improving-an-essay/)
 
+> **🎬 ভিডিও কোর্সের সাথে ট্রান্সক্রিপ্ট:** এই ৪৭টি video-course লেসনের **Reading (১০), Listening (২) ও Speaking (৬)** পর্বের YouTube ক্যাপশন ট্রান্সক্রিপ্ট সংগ্রহ করা হয়েছে → **[master/08-simon-video-course-transcripts.md](08-simon-video-course-transcripts.md)**। প্রতিটি লেসনের ফাইলে সাইমনের নিজস্ব টাইমস্ট্যাম্পড সারাংশ (Description) + আসল কথোপকথন (Transcript) আছে, আর কোন অংশ পর্যন্ত ক্যাপশন পাওয়া গেছে তা `transcript_coverage` ফিল্ডে স্পষ্ট লেখা।
+> ডেটা: `scrape/simon-youtube/transcripts/` · স্ক্র্যাপার: `scrape/simon-youtube/fetch_transcripts.py` · জেনারেটর: `scrape/simon-youtube/build-transcripts-doc.py`
+
 ---
 
 ## ৪) পুরনো ব্লগ (ielts-simon.com) — আর্কাইভ স্ট্যাটাস
