@@ -1,0 +1,26 @@
+# IELTS Speaking Part 3: 'technology' topic
+
+- **Date:** 2020-01-31 | **আর্কাইভ লিংক:** [2020/01/ielts-speaking-part-3-technology-topic.html](https://web.archive.org/web/20200306015019id_/https://www.ielts-simon.com/ielts-help-and-english-pr/2020/01/ielts-speaking-part-3-technology-topic.html) | **Comments:** 0
+
+## Content
+
+1. What technology or equipment is used in most workplaces nowadays?
+
+2. Does technology help workers or make their lives more difficult?
+
+3. What effect does new technology have on employment?
+
+**1\. Tip: give a list of different technologies, then talk about one in detail:**
+
+In most workplaces people use equipment such as computers, phones, printers, fax machines and photocopiers. I think the computer is probably the most essential piece of equipment because we rely on it for almost everything: communicating by email, writing reports, organising data, and finding information on the Internet.
+
+**2\. Tip: talk about the positives AND the negatives:**
+
+Technology definitely helps workers because it makes many tasks so much easier. For example, email is such a useful tool for communication between employees in different offices, or even in different countries. On the other hand, technology can make life more difficult, especially when it goes wrong. It causes a lot of stress when the Internet is down or a computer crashes.
+
+**3\. Tip: give the good effects AND the bad effects:**
+
+I think technology is often responsible for people losing their jobs. Machines have replaced people in areas like manufacturing and agriculture, and whenever a new technology is introduced, there are redundancies. At the same time, jobs might be created thanks to a new technology; for example, there would be no computer programmers if the computer hadn't been invented.
+
+## Comments (0)
+

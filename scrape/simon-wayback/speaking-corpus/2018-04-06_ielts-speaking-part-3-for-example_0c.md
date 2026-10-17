@@ -1,0 +1,14 @@
+# IELTS Speaking Part 3: "For example..."
+
+- **Date:** 2018-04-06 | **আর্কাইভ লিংক:** [2018/04/ielts-speaking-part-3-for-example.html](https://web.archive.org/web/20191016071802id_/https://www.ielts-simon.com/ielts-help-and-english-pr/2018/04/ielts-speaking-part-3-for-example.html) | **Comments:** 0
+
+## Content
+
+In part 3 of the speaking test, you should try to give longer, more detailed answers. A great way to do this is by giving an example.
+
+However, I've noticed that students often forget to give an example, even when I've just told them to answer using the three steps: 1) direct answer 2) explain 3) give an example.
+
+Here's the solution to this problem: when answering in part 3, force yourself to say the words "for example". When I force my students to say these words, they always manage to find an example, and the result is that they always give better answers. Try it: just force yourself to say the words "for example", and see what happens.
+
+## Comments (0)
+

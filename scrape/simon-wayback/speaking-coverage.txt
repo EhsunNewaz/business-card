@@ -1,18 +1,18 @@
 speaking posts in archive: 558
-posts with comment data:   41 (7%)
-comments captured:         293
+posts with comment data:   416 (74%)
+comments captured:         6430
 
 per year (posts / comments captured):
-  2009:   12 posts     16 comments
-  2010:   59 posts      0 comments
-  2011:   57 posts      0 comments
-  2012:   51 posts     12 comments
-  2013:   51 posts     19 comments
-  2014:   51 posts      0 comments
-  2015:   55 posts      0 comments
-  2016:   54 posts      0 comments
-  2017:   52 posts      0 comments
-  2018:   53 posts     10 comments
-  2019:   52 posts    199 comments
+  2009:   12 posts     40 comments
+  2010:   59 posts    343 comments
+  2011:   57 posts    713 comments
+  2012:   51 posts    967 comments
+  2013:   51 posts   1026 comments
+  2014:   51 posts   1032 comments
+  2015:   55 posts    857 comments
+  2016:   54 posts    641 comments
+  2017:   52 posts    442 comments
+  2018:   53 posts    112 comments
+  2019:   52 posts    220 comments
   2020:   10 posts     37 comments
   2021:    1 posts      0 comments

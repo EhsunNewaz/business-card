@@ -1,0 +1,16 @@
+# IELTS Speaking: the importance of part 2
+
+- **Date:** 2017-08-04 | **আর্কাইভ লিংক:** [2017/08/ielts-speaking-the-importance-of-part-2.html](https://web.archive.org/web/20190716172229id_/https://www.ielts-simon.com/ielts-help-and-english-pr/2017/08/ielts-speaking-the-importance-of-part-2.html) | **Comments:** 0
+
+## Content
+
+Students often ask me what will happen if they do badly in part 2 of the speaking test. Is it still possible to get a high score?
+
+Yes, in theory, it is still possible to get a reasonably high score (maybe band 7) if you do badly in part 2, but you would need to give excellent answers in part 3. In practice, candidates rarely recover from a bad part 2; I don't remember anyone who made a mess of part 2 but suddenly did a fantastic part 3.
+
+_**My advice:**_ You should consider part 2 as the core of your speaking test. It's your best chance to show how good your English is, and it's the examiner's best chance to listen carefully to your use of language. In fact, it's probably the point at which most examiners get a clear idea of what score to give you.
+
+The good news is that you can prepare for part 2. [Click here](https://ielts-simon.com/ielts-help-and-english-pr/2012/09/ielts-speaking-part-2-main-topics.html) to get started!
+
+## Comments (0)
+

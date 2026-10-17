@@ -1,0 +1,22 @@
+# IELTS Speaking Part 2: tell an anecdote
+
+- **Date:** 2018-02-23 | **আর্কাইভ লিংক:** [2018/02/ielts-speaking-part-2-tell-an-anecdote.html](https://web.archive.org/web/20190818231733id_/https://www.ielts-simon.com/ielts-help-and-english-pr/2018/02/ielts-speaking-part-2-tell-an-anecdote.html) | **Comments:** 0
+
+## Content
+
+An anecdote is a "short amusing or interesting story about a real incident" (according to my computer's dictionary). If you can think of an anecdote in part 2 of your speaking test, you'll find the task much easier.
+
+**Exercise:**
+
+Look again at the 'public transport' task in last Friday's [lesson](https://ielts-simon.com/ielts-help-and-english-pr/2018/02/ielts-speaking-part-2-public-transport.html). Can you think of an amusing or interesting story about a time you used public transport?
+
+**Advice:**
+
+For advice about telling anecdotes, have a look at [this website](http://britishenglishcoach.com/how-to-tell-anecdotes-in-english/).
+
+**Example:**
+
+My public transport anecdote will be about a train journey that I took for work reasons. I was expecting a nice, relaxing trip, but the train filled up with football fans going to a big match. I'll share my full answer next Friday.
+
+## Comments (0)
+

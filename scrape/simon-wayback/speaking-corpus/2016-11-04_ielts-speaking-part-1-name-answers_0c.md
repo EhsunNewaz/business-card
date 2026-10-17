@@ -1,0 +1,26 @@
+# IELTS Speaking Part 1: 'name' answers
+
+- **Date:** 2016-11-04 | **আর্কাইভ লিংক:** [2016/11/ielts-speaking-part-1-name-answers.html](https://web.archive.org/web/20190716171002id_/https://www.ielts-simon.com/ielts-help-and-english-pr/2016/11/ielts-speaking-part-1-name-answers.html) | **Comments:** 0
+
+## Content
+
+Here are some sample answers for the 'name' questions that I shared last week. Notice that most of these answers are negative ones; it's completely acceptable to answer in this way.
+
+_**1) How did your parents choose your name?**_
+
+To be honest, I'm not sure how they chose it; I've never asked them. I suppose it was just a name that they both liked, and maybe they thought it suited me.
+
+_**2) Does your name have any special meaning?**_
+
+It might do, but I don't know what that meaning is; I've never looked it up. Maybe I'll google it later today; you've made me curious to find out!
+
+_**3) Is your name common or unusual in your country?**_
+
+Yes, it's quite a common name. I remember that there were two other people with the same name as me in my class at school.
+
+_**4) If you could change your name, would you?**_
+
+No, I definitely wouldn't. My name is part of my identity now, and it would feel strange to suddenly change it. I don't think my friends and family would like that either.
+
+## Comments (0)
+

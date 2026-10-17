@@ -1,0 +1,17 @@
+# IELTS Speaking: is accent important?
+
+- **Date:** 2013-11 | **আর্কাইভ লিংক:** [2013/11/ielts-speaking-is-accent-important.html](https://web.archive.org/web/2021/https://www.ielts-simon.com/ielts-help-and-english-pr/2013/11/ielts-speaking-is-accent-important.html) | **Comments:** 7
+
+## Content
+
+*(এই পোস্টের বডি এখনো ধরা পড়েনি — মাস-ইনডেক্স ফেচ করা বাকি)*
+
+## Comments (7)
+
+1. **Vy Duong** (2013-11-20): Dear Simon and everyone, I've taken the IELTS test for 3 times but I just got 6.5 in speaking for 3 attempts. Can anyone help me to improve my speaking skill because I need to get 7 for this part? I have problems with ideas, vocabularies and idioms. I often give short answers and repeat ideas that I spoke. I learn many vocabularies and idioms but I couldn't use them in speaking test. Thank you very much.
+2. **Tony** (2013-11-19): Hi Simon, Will the examiner choose the same topic for 3 parts? For example, he/she may choose the topic of "describe a trip by public transport" for part2 and , of cause, he/she would continue to discuss public transport related topics. However, if he/she picked several transport related part 1 questions, I will definitely run out of my "topic vocabulary", which will be a disaster for me. You know, I'm not able to prepare so many alternative vocabulary to describe transport. Thank you.
+3. **deal** (2013-11-16): hello all, my skype: emin.oksuz for practice
+4. **hellcha** (2013-11-16): Hi Simon, Would it be easier to learn British pronunciation or American pronunciation? I have been taking up British pronunciation for quite a long time; however, it seems that other people have difficulty understanding me when we communicate. I don't know where I'm wrong; I have used a virtual dictionary to check my pronunciation and found that it is quite good, not perfect but good enough to my way of thinking. So, should I change to pronounce the American way? I also find that most of my friends prefer American pronunciation and maybe it will be better if I do it too? Thanks.
+5. **Simon** (2013-11-15 (এডিট 2013-11-16)): Hi Safwan, If you find someone who speaks well, try to copy them - use them as a model, and copy the way they pronounce words. This could be your teacher, or it could be someone that you find in an online video. ... Hi Trung, The 5 features do affect accent as well. However, the examiner is only concerned about clear, intelligible pronunciation. It doesn't matter whether you sound like you come from England, the USA, France or China - your speech just needs to be clear.
+6. **Trung** (2013-11-15): :( That's quite paradox Simon. Because according to a book named " American accent training": accent contains 5 elements above.
+7. **safwan** (2013-11-15): What do u mean by model of speech?

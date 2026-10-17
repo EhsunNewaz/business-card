@@ -1,0 +1,14 @@
+# IELTS Speaking Part 2: planning time
+
+- **Date:** 2017-12-29 | **আর্কাইভ লিংক:** [2017/12/ielts-speaking-part-2-planning-time.html](https://web.archive.org/web/20190716160942id_/https://www.ielts-simon.com/ielts-help-and-english-pr/2017/12/ielts-speaking-part-2-planning-time.html) | **Comments:** 0
+
+## Content
+
+In part 2 of the speaking test you are given 1 minute to plan some ideas before you start speaking. Most people find it difficult to prepare good ideas in such a short time.
+
+But what would happen if you had 5 minutes or even 10 minutes to plan your ideas? Would the extra planning time help you to prepare a much better answer? I think it should.
+
+When practising at home, it's useful to experiment with the amount of planning time that you give yourself. For example, I'm going to give myself 10 minutes to plan ideas for the [describe a plant](https://ielts-simon.com/ielts-help-and-english-pr/2017/12/ielts-speaking-part-2-plant-flower-or-tree.html) task. I'll show you my plan in tomorrow's lesson.
+
+## Comments (0)
+

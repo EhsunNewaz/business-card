@@ -1,0 +1,17 @@
+# IELTS Speaking Advice: get to the point
+
+- **Date:** 2013-08 | **আর্কাইভ লিংক:** [2013/08/ielts-speaking-advice-get-to-the-point.html](https://web.archive.org/web/2021/https://www.ielts-simon.com/ielts-help-and-english-pr/2013/08/ielts-speaking-advice-get-to-the-point.html) | **Comments:** 7
+
+## Content
+
+*(এই পোস্টের বডি এখনো ধরা পড়েনি — মাস-ইনডেক্স ফেচ করা বাকি)*
+
+## Comments (7)
+
+1. **Joan** (2013-08-27 (এডিট 2013-08-28)): Hello, It is true. I have sit IELTS for the 3rd time and got better in speaking after 3 weeks, reaching 7.5. I was speaking more naturally and I thought I didn't perform well enough. I was surprised with my result. I even did not paraphrased the questions. Thanks Simon for your guidance!!!
+2. **Simon** (2013-08-27 (এডিট 2013-08-28)): FROM SIMON There's a useful discussion about all of this in the comments below this lesson: http://ielts-simon.com/ielts-help-and-english-pr/2013/08/ielts-speaking-avoid-these-phrases.html Please read what Martin and sjm say in their comments. Rita, I disagree with the idea that native speakers rarely say "I think" (I say it quite a lot), but I agree that it's also common to say 'I suppose' 'I guess' or 'I would say'. Use those phrases too if you can. boburShox, You would be surprised how many times you can repeat "I think", "I guess" and "Well" without annoying a native speaker (e.g. an examiner). We use these quick fillers so often that nobody really notices them. They also allow you to get to the substance of your answer so quickly that the filler itself becomes almost irrelevant. My main message in these last two lessons has been this: don't waste time learning 'filler phrases'. Short, natural fillers are great (and the occasional long one is fine too), but your main focus should always be on the ANSWER, not the filler.
+3. **Rita** (2013-08-26 (এডিট 2013-08-27)): Hi Simon, I would be very thankful if you could answer me this question. Some people say that native English speakers rarely say 'I think' in oral language. Instead, they say 'I suppose' 'I guess' or 'I would say'. Is that true? Would it be better if we avoid saying''I think' in ielts test? Thanks :)
+4. **san** (2013-08-25): Hi Simon, I have one query relating to speaking second round that, whether it is better to speak fluently till the examiner force us to stop or to conclude at approximately end of 2 minute. I will be grateful for your response.
+5. **namialus** (2013-08-24): I hope everyone understands Simon's advises properly. His preferences in Ielts test are absolutely right and correct with no objections but sometimes we misinterpreted these ideas.
+6. **deepak rana** (2013-08-24): Hi,Simon and all my frd I m totally agree with it bcoz if we use this so examiner knows that we are native speaker so they now that we are speak simple and these are simple thanks
+7. **boburShox** (2013-08-24): Hello, Simon and all. I think I agree with the idea of getting to the point. However, I cannot imagine just using 'I think', when you have to give your thoughts for about 10-12 questions (if not many more). Ranald Barnicot (in the video made by IELTS Express Upper Intermediate book) advises that instead of just using 'I think, I think, I think', candidates could produse some phrases like 'In my opinion, I strongly believe...'. I am now a bit confused from your advice here. I think I'll continue using some alternatives in this respect. Thank you.

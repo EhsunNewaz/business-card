@@ -1,0 +1,22 @@
+# IELTS Speaking: scoring and part 3
+
+- **Date:** 2018-08-05 | **আর্কাইভ লিংক:** [2018/08/ielts-speaking-scoring-and-part-3.html](https://web.archive.org/web/20190717142229id_/https://www.ielts-simon.com/ielts-help-and-english-pr/2018/08/ielts-speaking-scoring-and-part-3.html) | **Comments:** 2
+
+## Content
+
+Let's consider what an examiner might be thinking during part 3 of the speaking test.
+
+**Speaking Part 3**
+
+After part 2 of the speaking test, the examiner probably has a pretty good idea of the candidate's level. Part 3 is useful because it allows the examiner to probe a little deeper to make sure that he/she is right. For example, if the examiner is unsure about what score to give for grammar, he/she might choose a question that requires the candidate to compare the past with the present (i.e. using different tenses), or a question that requires the candidate to imagine something (perhaps using a conditional).
+
+When I was an examiner, I used part 3 as an opportunity to push candidates a little harder. I tried to get them to open up, express themselves, and explain their opinions. In other words, I was giving them a final chance to impress me with some good English. This is what you should try to do.
+
+**Tip:** Don't let your energy or effort level drop after part 2. Do your best to leave a good impression on the examiner. [This technique](https://ielts-simon.com/ielts-help-and-english-pr/2017/05/ielts-speaking-part-3-longer-answers.html) will help you.
+
+**Note:** I'll come back to yesterday's point about 'less common' and 'idiomatic' vocabulary in next Friday's lesson.
+
+## Comments (2)
+
+1. **Young** (2018-08-08): Thanks Simon
+2. **Pachu** (2018-08-06): Thank you Simon sir, for giving the insights what the examiner is expecting from students at the last chance of speaking exam.
