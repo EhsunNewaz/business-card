@@ -31,6 +31,7 @@ REPO = HERE.parent.parent
 CDX_RAW = HERE / "raw-speaking-cdx.txt"
 FEED_DIR = HERE / "speaking-feeds"
 PAGE_DIR = HERE / "speaking-pages"
+BODY_DIR = HERE / "speaking-bodies"
 JSON_DIR = HERE / "speaking-comments"
 CORPUS_DIR = HERE / "speaking-corpus"
 COVERAGE = HERE / "speaking-coverage.txt"
@@ -223,9 +224,17 @@ def parse_compact_feed(raw: str) -> tuple[str, list[dict]]:
         if line.startswith("#"):
             continue
         parts = line.split(" :: ", 3)
-        if len(parts) != 4:
+        if len(parts) == 4:
+            published, updated, author, text = parts
+        elif len(parts) == 3:
+            # older captures used "author : text" instead of "author :: text"
+            published, updated, rest = parts
+            m = re.match(r"([^:]{1,80}?)\s:\s(.*)$", rest, re.S)
+            if not m:
+                continue
+            author, text = m.group(1), m.group(2)
+        else:
             continue
-        published, updated, author, text = parts
         text = text.replace(" / ", "\n\n").strip()
         if not text:
             continue
@@ -238,6 +247,48 @@ def parse_compact_feed(raw: str) -> tuple[str, list[dict]]:
             "text": text,
         })
     return title, comments
+
+
+def parse_body_capture(raw: str) -> dict:
+    """Parse a `speaking-bodies/<YYYY-MM>-<slug>.txt` capture.
+
+        # post: 2020-02 | ielts-speaking-part-2-using-the-prompts
+        # title: IELTS Speaking Part 2: using the prompts
+        # date: 2020-02-21
+        # comments: 2
+        # url: https://ielts-simon.com/...
+        # source: https://web.archive.org/web/.../index.html
+        # captured: 2026-10-17
+        <post body — paragraphs separated by " / ">
+    """
+    meta: dict[str, str] = {}
+    body_lines: list[str] = []
+    for line in raw.splitlines():
+        if line.startswith("# "):
+            key, _, val = line[2:].partition(":")
+            meta[key.strip()] = val.strip()
+            continue
+        body_lines.append(line)
+    text = "\n".join(body_lines).strip()
+    # paragraphs are separated by blank lines inside the capture file
+    paras = []
+    for block in text.split("\n\n"):
+        joined = "\n".join(x.rstrip() for x in block.split("\n") if x.strip())
+        if joined:
+            paras.append(joined)
+    ts = ""
+    m = re.search(r"web\.archive\.org/web/(\d{14})", meta.get("source", ""))
+    if m:
+        ts = m.group(1)
+    return {
+        "title": meta.get("title", ""),
+        "date": meta.get("date", ""),
+        "comments": int(meta.get("comments", "0") or 0),
+        "url": meta.get("url", ""),
+        "source": meta.get("source", ""),
+        "ts": ts,
+        "body": "\n\n".join(paras),
+    }
 
 
 def parse_page(raw: str) -> tuple[str, str, list[dict]]:
@@ -281,6 +332,7 @@ def main() -> None:
     CORPUS_DIR.mkdir(parents=True, exist_ok=True)
 
     records: list[dict] = []
+    written: set[str] = set()
     for post in posts:
         stem = f"{post['ym']}-{post['slug']}"
         rec = {
@@ -292,9 +344,13 @@ def main() -> None:
             "published": "",
             "comments": [],
             "source": "index-only",
+            "body": "",
+            "body_source": "",
+            "index_comments": 0,
         }
         feed = FEED_DIR / f"{stem}.txt"
         page = PAGE_DIR / f"{stem}.txt"
+        body_file = BODY_DIR / f"{stem}.txt"
         if feed.exists():
             raw = feed.read_text(encoding="utf-8")
             if raw.lstrip().startswith("# post:"):
@@ -315,13 +371,33 @@ def main() -> None:
             rec["source"] = "post-page"
         if not rec["title"] and rec["comments"]:
             rec["title"] = rec["comments"][0]["post_title"]
+        # post body (from the monthly index pages)
+        if body_file.exists():
+            b = parse_body_capture(body_file.read_text(encoding="utf-8"))
+            rec["body"] = b["body"]
+            rec["body_source"] = b["source"]
+            rec["body_ts"] = b["ts"]
+            rec["index_comments"] = b["comments"]
+            if b["date"]:
+                rec["published"] = b["date"]
+            if not rec["title"]:
+                rec["title"] = b["title"]
+            if rec["source"] == "index-only":
+                rec["source"] = "month-index"
         # json
         (JSON_DIR / f"{stem}.json").write_text(
             json.dumps(rec, ensure_ascii=False, indent=2), encoding="utf-8")
-        # readable corpus
-        if rec["comments"]:
-            write_corpus(CORPUS_DIR / f"{post['ym']}-{post['slug']}.md", post, rec)
+        # readable corpus — advice-corpus shape: content first, comments underneath
+        if rec["comments"] or rec.get("body"):
+            name = corpus_name(post, rec)
+            write_corpus(CORPUS_DIR / name, post, rec)
+            written.add(name)
         records.append(rec)
+
+    # drop stale corpus files from earlier runs
+    for old in CORPUS_DIR.glob("*.md"):
+        if old.name not in written:
+            old.unlink()
 
     write_coverage(records)
     write_index_tsv(records)
@@ -343,40 +419,53 @@ def write_index_tsv(records: list[dict]) -> None:
     (HERE / "speaking-index.tsv").write_text("\n".join(rows) + "\n", encoding="utf-8")
 
 
+def corpus_name(post: dict, rec: dict) -> str:
+    """Corpus file name: `YYYY-MM-DD_<slug>_<N>c.md` (same shape as advice-corpus)."""
+    datepart = rec["published"] if len(rec["published"]) == 10 else post["ym"]
+    return f"{datepart}_{post['slug']}_{len(rec['comments'])}c.md"
+
+
 def write_corpus(path: Path, post: dict, rec: dict) -> None:
-    L = [
-        "---",
-        f'title: "{rec["title"] or post["slug"]}"',
-        f'slug: "{post["slug"]}"',
-        f'category: "IELTS Speaking"',
-        f'published_month: "{post["ym"]}"',
-        f'published: "{rec["published"] or ""}"',
-        f'comments: {len(rec["comments"])}',
-        f'url: "{post["url"]}"',
-        f'wayback: "https://web.archive.org/web/2021/{post["url"]}"',
-        f'source: "{rec["source"]}"',
-        f"scraped: {date.today().isoformat()}",
-        "---",
-        "",
-        f'# {rec["title"] or post["slug"]}',
-        "",
-        f'**Original:** {post["url"]}',
-        f'**Archived:** https://web.archive.org/web/2021/{post["url"]}',
-        f'**Published:** {rec["published"] or post["ym"]} · **Comments:** {len(rec["comments"])}',
-        "",
-        "## Comments",
-        "",
-    ]
-    for c in rec["comments"]:
-        pub = c["published"]
-        upd = c["updated"]
+    """Write one corpus file: the post's own content, then its comments.
+
+    Mirrors `advice-corpus/` exactly — a title heading, a metadata line, a
+    `## Content` section with the post body, and a `## Comments (N)` section
+    listing every comment with its author and timestamp.
+    """
+    title = rec["title"] or post["slug"]
+    n = len(rec["comments"])
+    published = rec["published"] or post["ym"]
+    # archive link for the post itself (not the monthly index page)
+    ts = rec.get("body_ts") or ""
+    if ts:
+        wayback = f"https://web.archive.org/web/{ts}id_/{post['url']}"
+    else:
+        wayback = f"https://web.archive.org/web/2021/{post['url']}"
+    L: list[str] = []
+    L.append(f"# {title}")
+    L.append("")
+    L.append(f"- **Date:** {published} | **আর্কাইভ লিংক:** "
+             f"[{post['ym_slash']}/{post['slug']}.html]({wayback}) | "
+             f"**Comments:** {n}")
+    L.append("")
+    L.append("## Content")
+    L.append("")
+    if rec.get("body"):
+        L.append(rec["body"])
+    else:
+        L.append("*(এই পোস্টের বডি এখনো ধরা পড়েনি — মাস-ইনডেক্স ফেচ করা বাকি)*")
+    L.append("")
+    L.append(f"## Comments ({n})")
+    L.append("")
+    for i, c in enumerate(rec["comments"], 1):
+        pub = (c["published"] or "")[:10]
         stamp = pub
+        upd = (c["updated"] or "")[:10]
         if upd and upd != pub:
-            stamp = f"{pub} (edited {upd})"
-        L.append(f'### {c["author"]} — {stamp}')
-        L.append("")
-        L.append(c["text"])
-        L.append("")
+            stamp = f"{pub} (এডিট {upd})"
+        text = c["text"].replace("\n\n", " ").replace("\n", " ").strip()
+        L.append(f'{i}. **{c["author"]}** ({stamp}): {text}')
+    L.append("")
     path.write_text("\n".join(L), encoding="utf-8")
 
 
@@ -405,6 +494,7 @@ def write_coverage(records: list[dict]) -> None:
 def write_master(records: list[dict]) -> None:
     total = len(records)
     with_comments = sum(1 for r in records if r["comments"])
+    with_body = sum(1 for r in records if r.get("body"))
     n_comments = sum(len(r["comments"]) for r in records)
     years = sorted({r["ym"][:4] for r in records})
 
@@ -447,6 +537,7 @@ def write_master(records: list[dict]) -> None:
     L.append("|---|---|")
     L.append(f"| আর্কাইভে থাকা মোট IELTS Speaking পোস্ট | **{total}** |")
     L.append(f"| কমেন্ট ডেটাসহ পোস্ট | {with_comments} |")
+    L.append(f"| পূর্ণ কনটেন্ট (বডি) সংগৃহীত পোস্ট | {with_body} |")
     L.append(f"| সংগৃহীত মোট কমেন্ট | **{n_comments}** |")
     L.append(f"| সাইমনের নিজের উত্তর | {simon_replies} |")
     L.append(f"| সময়কাল | {years[0]} → {years[-1]} |")
@@ -455,13 +546,14 @@ def write_master(records: list[dict]) -> None:
     # year table
     L.append("## বছরভিত্তিক কভারেজ")
     L.append("")
-    L.append("| বছর | পোস্ট | কমেন্ট ডেটাসহ পোস্ট | সংগৃহীত কমেন্ট |")
-    L.append("|---|---|---|---|")
+    L.append("| বছর | পোস্ট | কমেন্ট ডেটাসহ পোস্ট | সংগৃহীত কমেন্ট | পূর্ণ কনটেন্ট সংগৃহীত পোস্ট |")
+    L.append("|---|---|---|---|---|")
     for y in years:
         yr = [r for r in records if r["ym"].startswith(y)]
         wc = sum(1 for r in yr if r["comments"])
         nc = sum(len(r["comments"]) for r in yr)
-        L.append(f"| {y} | {len(yr)} | {wc} | {nc} |")
+        wb = sum(1 for r in yr if r.get("body"))
+        L.append(f"| {y} | {len(yr)} | {wc} | {nc} | {wb} |")
     L.append("")
 
     # top engagement
@@ -514,7 +606,9 @@ def write_master(records: list[dict]) -> None:
         title = r["title"] or r["slug"]
         n = len(r["comments"])
         star = " ★" if r["comments"] else ""
-        corpus = f"[{r['ym']}-{r['slug']}.md](../scrape/simon-wayback/speaking-corpus/{r['ym']}-{r['slug']}.md)" if r["comments"] else "—"
+        cname = corpus_name({"slug": r["slug"], "ym": r["ym"]}, r)
+        corpus = (f"[{cname}](../scrape/simon-wayback/speaking-corpus/{cname})"
+                  if (r["comments"] or r.get("body")) else "—")
         L.append(f'| {r["ym"]} | [{title}]({r["wayback"]}){star} | {n}{"*" if n else ""} | {corpus} |')
     L.append("")
     L.append("★ = পূর্ণ কনটেন্ট + প্রতিটি কমেন্ট (লেখক ও টাইমস্ট্যাম্প সহ) কর্পাস ফোল্ডারে সেভ করা আছে।")

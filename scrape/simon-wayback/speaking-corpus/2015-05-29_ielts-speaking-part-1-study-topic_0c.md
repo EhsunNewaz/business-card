@@ -1,0 +1,20 @@
+# IELTS Speaking Part 1: 'study' topic
+
+- **Date:** 2015-05-29 | **আর্কাইভ লিংক:** [2015/05/ielts-speaking-part-1-study-topic.html](https://web.archive.org/web/20190717143348id_/https://www.ielts-simon.com/ielts-help-and-english-pr/2015/05/ielts-speaking-part-1-study-topic.html) | **Comments:** 0
+
+## Content
+
+Try answering these recent exam questions. Just give a short, direct answer and a reason.
+
+_**Let's talk about studying...**_
+
+1\. Do you like studying? Why / why not?
+
+2\. Do you prefer to study alone or with others? Why?
+
+3\. Where do you prefer to go when you need to study? Why?
+
+4\. How do you feel if someone disturbs you when you are studying?
+
+## Comments (0)
+

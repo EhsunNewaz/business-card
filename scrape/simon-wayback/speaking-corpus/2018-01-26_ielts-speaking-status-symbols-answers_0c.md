@@ -1,0 +1,28 @@
+# IELTS Speaking: 'status symbols' answers
+
+- **Date:** 2018-01-26 | **আর্কাইভ লিংক:** [2018/01/ielts-speaking-status-symbols-answers.html](https://web.archive.org/web/20190716160912id_/https://www.ielts-simon.com/ielts-help-and-english-pr/2018/01/ielts-speaking-status-symbols-answers.html) | **Comments:** 0
+
+## Content
+
+Here are the questions from last Friday, with my sample answers below. Notice that all of my answers contain three sentences.
+
+1) In your country, what possessions are considered "status symbols"?
+
+2) Do you think we place too much importance on possessions?
+
+3) Do you think things were different 50 years ago?
+
+**1) Answer, examples, explain:**
+
+The typical status symbols in my country are things like big houses, expensive luxury cars or sports cars, and anything made by certain brands. For example, a new Ferrari or a Rolls Royce or a Rolex watch would definitely be considered status symbols. I suppose the reason why these possessions are seen in this way is because you have to be very wealthy to buy them, so they show other people that their owner is rich and successful.
+
+**2) Answer, explain, example:**
+
+Probably, yes. Many people are obsessed with showing off their new mobile phone or wearing the latest fashions. I think it's a problem for teenagers because there's a lot of peer pressure to follow fashion or buy the latest gadget that their friends have got.
+
+**3) Answer, example, further explanation:**
+
+Yes, maybe people were less materialistic, and I think they bought things that lasted longer. For example, my grandparents always talked about how they repaired things rather than throwing them away. Maybe brands and advertising weren't as powerful as they are now.
+
+## Comments (0)
+

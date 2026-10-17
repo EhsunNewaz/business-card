@@ -1,0 +1,18 @@
+# IELTS Speaking Part 3: future 'opinion' answers
+
+- **Date:** 2019-10-04 | **আর্কাইভ লিংক:** [2019/10/ielts-speaking-part-3-future-opinion-answers.html](https://web.archive.org/web/20191014003808id_/https://www.ielts-simon.com/ielts-help-and-english-pr/2019/10/ielts-speaking-part-3-future-opinion-answers.html) | **Comments:** 0
+
+## Content
+
+Here are two sample answers that include opinions about the future:
+
+_**Will large shopping malls continue to be popular, despite the growth of internet shopping?**_
+
+I can’t see shopping malls disappearing any time soon, so yes, I think they will definitely continue to attract shoppers. We already have internet shopping, with websites like Amazon now mainstream, but the large shopping centres in my city are still packed with people. The Trafford Centre near Manchester, for example, is hugely popular, and I think this is because it offers more than just shopping. It’s a place where families go for a day out, to have lunch or to visit attractions like Sea Life or Legoland, and naturally they will browse the shops and buy things there too.
+
+_**Do you think that some businesses (e.g. banks and travel agents) will only operate online in future?**_
+
+I’m sure they will, and I think this is already happening. I’m pretty sure that there are online-only savings accounts, and there are travel websites like Airbnb that have no physical presence on the high street. I imagine that more and more services will only be available online; this seems to be the way that things are going.
+
+## Comments (0)
+

@@ -1,0 +1,21 @@
+# IELTS Speaking Advice: tell stories
+
+- **Date:** 2012-02 | **আর্কাইভ লিংক:** [2012/02/ielts-speaking-advice-tell-stories.html](https://web.archive.org/web/2021/https://www.ielts-simon.com/ielts-help-and-english-pr/2012/02/ielts-speaking-advice-tell-stories.html) | **Comments:** 11
+
+## Content
+
+*(এই পোস্টের বডি এখনো ধরা পড়েনি — মাস-ইনডেক্স ফেচ করা বাকি)*
+
+## Comments (11)
+
+1. **Keri** (2014-12-14): : Yesterday was a busy day.I wake up in the morning, watched a movie Maze Runner.Seemed a little idle? No.I am energizing myself for a day's long brain work.I sat in front of laptop, opened Simon's website, checking the latest practice for speaking test.I got really sick at part 2 because forming a coherent idea appeared to be so hard for not to mention that I had little useful information in storage. What I want to say is that,in the evening of the last day,I spent 3 and a half hours composing my writing task 2. What amazing consumption of time! It consisted of several successive actions including seeking ideas on the Internet, taking notes of beautiful expressions, linking them together and brainstorming the raw essay.The final step was to correct some errors and replace awkward expressions with clearer ones. OH SO HARD
+2. **James** (2013-10-16 (এডিট 2013-10-17)): : Check this out poetry book, Best Love Poems is helpful on my speaking task. Here at www.lulu.com/spotlight/Bestlovepoems. I don't know if it works for you but for me it really does. Just got many ideas on speaking, I just bought it online and just want to share it with you for a change or my help. It sounds not related, I got many ideas. Leave it or not, your choice.
+3. **mani** (2012-05-19): : how can i improve my band in writing and speakig from 6.5
+4. **dolly** (2012-04-18 (এডিট 2012-04-19)): : anyone want to practice ielts on skype?do respond.. want a female speaking partner
+5. **jan** (2012-04-14 (এডিট 2012-04-15)): : HiI have just read some of views and decided to write.I hope it i will help me.I have target 7 book i read that but there are still lots of things to read and study on the website.I will read little bit more and check the comments here.Also my exam 12 of May.I need to concentrate on it more.
+6. **rajni** (2012-04-11): : hi simon Tommorow my ielts exam first i got 5 bands but now i want 6.5 band can i do this but i m not good in speaking so what can i do plz reply soon.thanx
+7. **Saadah** (2012-04-09 (এডিট 2012-04-10)): : I am glad to share my last trip. But I do not know how to put it in words. Can you all enlighten me? Recently I went to visit my brother in Japan. Visiting Japan is an eye opening actually. I managed to learn their culture and advanced technology. Japanese people are very punctual and discipline. Time management for nearly all public transportation is at top notch. We have tried all the services, be it taxi, bus, train and rapid transit such as subway. Apart from the cleanliness is very impressive. ... [truncated]
+8. **Marc** (2012-03-03): : Hi Kris. I think this advice from Simon is good: http://ielts-simon.com/ielts-help-and-english-pr/2012/02/ielts-advice-from-65-to-7.html
+9. **Kris** (2012-03-03): : Hi Simon, Its very helpful tips we are getting from you. I have done IELTS test few times but I always get score 6 in reading and writing and 7 on listening and speaking. I need 7 on reading and writing as well. "What are the common mistake people do when they just getting 6 and how is it possible to rectify them and correct by ourselves." Thank you
+10. **Shayan Bigdeli** (2012-02-24): : Hi guys; Yesterday I took IELTS Speaking. Questions are here; part1: What is your name? Do you work or study? Are healthy activities important to keep fit? Is it important to give a present on birthdays in your country? part2: Describe a music from a foreign country you have listened to. when you listened to it? where you listened to it? why you enjoyed it? part3: Are there wider range of music nowadays? what is the effect of music on people? on children? what is the difference between songs popular with the young and the old?
+11. **Maya** (2012-02-20): : Hi Simon, Thank you so much for your reply. So if the question say,date of birth then we just have [truncated]

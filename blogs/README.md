@@ -23,6 +23,7 @@
 | ৭ক | IELTS Simon পুরনো ব্লগের আর্কাইভ ইনডেক্স (reference) | `master/07a-simon-oldblog-archive-index.md` | `ielts-simon-oldblog-archive-index` |
 | ৭খ | IELTS Simon Advice পোস্ট — Engagement মেট্রিক (reference) | `master/07b-simon-advice-engagement.md` | `ielts-simon-advice-posts-engagement-metric` |
 | ৮ | IELTS Simon ভিডিও কোর্স — প্লেলিস্ট ট্রান্সক্রিপ্ট (Reading/Listening/Speaking) (reference) | `master/08-simon-video-course-transcripts.md` | `ielts-simon-video-course-transcripts` |
+| ৯ | IELTS Simon পুরনো ব্লগের IELTS Speaking পোস্ট আর্কাইভ — কমেন্ট ও টাইমস্ট্যাম্প সহ (reference) | `master/09-simon-speaking-posts-archive.md` | `ielts-simon-speaking-posts-archive` |
 
 **নামকরণ কনভেনশন:** পিলার আর্টিকেলের নাম **"A Complete Guide to X for Bangladeshi Students"** ফরম্যাটে (+ ফি/ডেট পেইজে বছর)। রিকারিং পেইজে মাস-বছর ট্যাগ — যেমন "Recent IELTS Speaking Questions in Bangladesh — October 2026"। প্রতিটার বাংলা মিরর ভার্সন। বিস্তারিত রিসার্চ ও নতুন ২০টা আর্টিকেলের নাম: `master/06-top-read-articles-and-gap-research.md`।
 

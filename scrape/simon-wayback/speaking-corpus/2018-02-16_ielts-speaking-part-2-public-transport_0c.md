@@ -1,0 +1,22 @@
+# IELTS Speaking Part 2: public transport
+
+- **Date:** 2018-02-16 | **আর্কাইভ লিংক:** [2018/02/ielts-speaking-part-2-public-transport.html](https://web.archive.org/web/20190818231733id_/https://www.ielts-simon.com/ielts-help-and-english-pr/2018/02/ielts-speaking-part-2-public-transport.html) | **Comments:** 0
+
+## Content
+
+We looked at some part 1 questions about public transport [last week](https://ielts-simon.com/ielts-help-and-english-pr/2018/02/ielts-speaking-part-1-public-transport-answers.html), so let's continue with the same topic but in part 2 of the test.
+
+Try speaking for 2 minutes about the following:
+
+_Describe a time you travelled by public transport. You should say_
+
+_\- what type of public transport you used_
+
+_\- where you travelled from and to_
+
+_\- what you did during the journey_
+
+_\- and explain how you felt about travelling in this way_
+
+## Comments (0)
+

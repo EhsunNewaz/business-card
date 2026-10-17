@@ -1,0 +1,30 @@
+# IELTS Speaking: advice about grammar and vocabulary
+
+- **Date:** 2018-07-13 | **আর্কাইভ লিংক:** [2018/07/ielts-speaking-advice-about-grammar-and-vocabulary.html](https://web.archive.org/web/20191016081122id_/https://www.ielts-simon.com/ielts-help-and-english-pr/2018/07/ielts-speaking-advice-about-grammar-and-vocabulary.html) | **Comments:** 6
+
+## Content
+
+It's difficult to think about grammar when you're trying to speak. I think it's much easier to improve your vocabulary score than your grammar score.
+
+**Remember:**
+
+- Grammar is only 25% of your speaking score.
+
+- If you are thinking too much about grammar, you will lose fluency.
+
+- If you try to use memorised grammatical structures, your speech will not sound 'natural'.
+
+- You will not avoid small grammar mistakes unless you have lived in an English speaking country for many years.
+
+I've taught many students who have achieved a score of 7 or higher, and they all made small grammar mistakes. They got their high scores because we focused on _vocabulary, ideas, opinions_ and _fluency_.
+
+Have a look through my speaking lessons, and you'll notice that the focus is usually on vocabulary.
+
+## Comments (6)
+
+1. **Michelle** (2018-07-18): Dear Simon, I have a question about the speaking test which has puzzled me for a long time. Is it normal for the examiner to behave impatiently and keep asking you questions before you could finish the answers in the part 3? I experienced at least twice and because of the exminer's attitude I felt even nervious. I used to believe that the IELTS is a language test, but now I think it is also a psychological test. How could I solve this problem? Is there any effective way for me to pratice myself when the examiner is very tired or not very friendly? Really, really appreciate if you could give me a reply. Best regards.
+2. **Manuel** (2018-07-15): @ Harry https://www.google.com/search?tbo=p&tbm=bks&q=%22money+to+fund+training%22&num=10 https://books.google.com/ngrams/graph?content=money+to+train%2Cmoney+to+provide+training%2Cto+fund+training%2Cto+provide+training+for&year_start=1960&year_end=2008&corpus=15&smoothing=3&share=&direct_url=t1%3B%2Cmoney%20to%20train%3B%2Cc0%3B.t1%3B%2Cmoney%20to%20provide%20training%3B%2Cc0%3B.t1%3B%2Cto%20fund%20training%3B%2Cc0%3B%2Cto%20provide%20training%20for%3B%2Cc0 https://books.google.com/ngrams/graph?content=taxpayers%2C+tax-payers%2Ctax+payers&year_start=1900&year_end=2008&corpus=15&smoothing=3&share=&direct_url=t1%3B%2Ctaxpayers%3B%2Ctax%20-%20payers%3B%2Cc0%3B%2Ctax%20payers%3B%2Cc0 https://books.google.com/ngrams/graph?content=elite+sport+\*_NOUN%2Celite+sporting+\*%2Celite+sports%2A_NOUN%2Celite+sportspersons%2Celite+sportspeople&year_start=1950&year_end=2000&corpus=15&smoothing=3&share=&direct_url=t2%3B%2Celite+sport%20%2A_NOUN%3B%2Cc0%3B%2Cs0%3B%3Belite+sport%20development%2A_NOUN%3B%2Cc0%3B%2Celite+sport%20performance%2A_NOUN%3B%2Cc0%3B%2Celite+sport%20performers%2A_NOUN%3B%2Cc0%3B.t2%3B%2Celite+sporting%20%2A_NOUN%3B%2Cc0%3B%2Cs0%3B%3Belite+sporting%20success%2A_NOUN%3B%2Cc0%3B%2Cs0%3B%3Belite+sporting%20events%2A_NOUN%3B%2Cc0%3B%2Cs0%3B%3Belite+sports%20%2A_NOUN%3B%2Cc0%3B%2Cs0%3B%3Belite+sports%20of%20%2A_NOUN%3B%2Cc0%3B%2Cs0%3B%3Belite+sports%20in%20%2A_NOUN%3B%2Cc0%3B%2Cs0%3B%3Belite+sports%20clubs%2A_NOUN%3B%2Cc0%3B%2Cs0%3B%3Belite+sports%20systems%2A_NOUN%3B%2Cc0%3B%2Cs0%3B%3Belite+sports%20programs%2A_NOUN%3B%2Cc0%3B%2Cs0%3B%3Belite+sportspersons%2A_NOUN%3B%2Cc0%3B.t1%3B%2Celite+sportspeople%2A_NOUN%3B%2Cc0 https://books.google.com/ngrams/graph?content=international+sports+events%2C+international+sporting+events&year_start=1950&year_end=2008&corpus=15&smoothing=3&share=&direct_url=t1%3B%2Cinternational%20sports%20events%2C%2Cinternational%20sporting%20events%3B%2Cc0 -> Many countries are allocating a significant amount of taxpayers' money to fund developmental training for elite sportspeople with a view to improving their performance in international sporting events.
+3. **Harry** (2018-07-14): Can anyone please tell me which of the following sentence is correc ? Many countries are allocating a significant amount of tax payers' money to train sportspersons to excel in international sports events. Or Many countries are allocating a significant amount of tax payers' money to provide training to sportspersons so that they can excel in international sports events. Thanks in advance
+4. **Da Nang** (2018-07-14): Thank you Mr sjm !
+5. **sjm** (2018-07-14): Da Nang 1. Pronunciation features generally refer to: a) the accuracy of your individual sounds b) your ability to accurately use syllable stress and word stress c) your ability to use word linking d) your ability to use native 'intonation' (the 'music' of your voice, which is most noticeable when communicating emotion) 2. I have examined thousands of candidates and I can tell you that the times I have seen a candidate stop and correct themselves is under 5. You are MUCH better off concentrating on delivering flowing, natural sounding English, so that your fluency and pronunciation scores benefit. Simon is exactly right - grammatical accuracy is built up BEFORE the test by practice and feedback, and if you try to 'monitor' grammar during the test it will hurt you in other areas. If you immediately notice an error and correct it in a natural way, then fine, but I would never advise anyone in the test to be thinking about their accuracy, and planning to correct errors as they go.
+6. **Da Nang** (2018-07-13): Mr Simon: Re: IELTS Speaking band descriptors (public version) 1) What does the term "pronunciation features" mean? 2) It seems that to score band 7 in the speaking: (a) we may "demonstrate language related hesitation at times, or some repetition and/or self correction" ; but at the same time (b) we must "frequently produce error-free sentences, though some grammatical mistakes persist". To me, this suggests that it is worth while pausing or correcting in order to achieve 50% error-free sentence rate. If we get the grammar correct at the second attempt, does this then count as an "error-free" sentence?

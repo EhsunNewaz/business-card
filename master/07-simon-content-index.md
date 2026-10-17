@@ -184,6 +184,8 @@ Be a good model · Teaching grammar · The importance of input · Building a mat
 
 **বিকল্প আর্কাইভ:** pdfcoffee.com-এ ২০১২–২০১৫-এর daily lesson-গুলোর compiled PDF আছে ([pdfcoffee.com/ielts-simon-pdf-free.html](https://pdfcoffee.com/ielts-simon-pdf-free.html)) — দ্রুত রেফারেন্সের জন্য।
 
+**🗣️ Speaking পোস্টের গভীর আর্কাইভ (কমেন্ট সহ):** Wayback Machine থেকে ielts-simon.com-এর **৫৫৮টি IELTS Speaking পোস্ট** (২০০৯-০৯ → ২০২১-০৮) সংগৃহীত — পোস্টের ফুল কনটেন্ট, প্রতিটি কমেন্টের লেখক ও টাইমস্ট্যাম্প, এবং সাইমনের নিজের ৬২৮টি উত্তর সহ → **[master/09-simon-speaking-posts-archive.md](09-simon-speaking-posts-archive.md)**। প্রতিটি পোস্টের কর্পাস ফাইল: `scrape/simon-wayback/speaking-corpus/` (যেমন `2018-10-12_ielts-speaking-part-2-three-sample-questions_16c.md`)।
+
 ---
 
 ## ৫) সাইমনের কনটেন্ট ফর্মুলা — যা আমরা মডেল করব

@@ -1,0 +1,24 @@
+# IELTS Speaking Part 3: 'nice home' answers
+
+- **Date:** 2019-08-30 | **আর্কাইভ লিংক:** [2019/08/ielts-speaking-part-3-nice-home-answers.html](https://web.archive.org/web/20190820222540id_/https://www.ielts-simon.com/ielts-help-and-english-pr/2019/08/ielts-speaking-part-3-nice-home-answers.html) | **Comments:** 0
+
+## Content
+
+Here are some sample answers for the 'nice home' questions that I asked you to look at two weeks ago. The questions come from Cambridge IELTS 14.
+
+**Note:** I try to answer in a natural and slightly informal way, but with some good 'topic vocabulary'.
+
+_**Why do some people buy lots of things for their home?**_
+
+I think there could be a couple of different reasons for this. Some people like to surround themselves with beautiful objects and furnishings to brighten up their lives, while others buy lots of devices that are supposed to save time. In my own home we have examples of both types of object: we have things like ornaments and pictures because they look nice, and we have useful gadgets, like a small vacuum cleaner that we recently bought.
+
+_**Do you think it is very expensive to make a home look nice?**_
+
+No, definitely not. Basic furniture isn’t expensive these days, especially now that we have shops like Ikea. I know plenty of people who have furnished and decorated their homes really nicely without spending too much money. Personally I also like the minimalist look: some basic furniture, light colours and not too much clutter.
+
+_**Why don't some people care about how their home looks?**_
+
+Maybe they just see their homes as a base - somewhere to eat and sleep - rather than a reflection of their tastes or personalities. And many people are just too busy with work and life outside the home to worry about furniture and decorations. A friend of mine, for example, doesn’t seem to care about the way his house looks, but this is because he’s almost never there; he travels for work and spends more time in hotel rooms than in his own house.
+
+## Comments (0)
+

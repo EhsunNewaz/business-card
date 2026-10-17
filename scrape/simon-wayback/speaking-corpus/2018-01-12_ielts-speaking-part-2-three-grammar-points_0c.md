@@ -1,0 +1,42 @@
+# IELTS Speaking Part 2: three grammar points
+
+- **Date:** 2018-01-12 | **আর্কাইভ লিংক:** [2018/01/ielts-speaking-part-2-three-grammar-points.html](https://web.archive.org/web/20190716160912id_/https://www.ielts-simon.com/ielts-help-and-english-pr/2018/01/ielts-speaking-part-2-three-grammar-points.html) | **Comments:** 0
+
+## Content
+
+Let's look again at the description of a tree that I shared in last Friday's [lesson](https://ielts-simon.com/ielts-help-and-english-pr/2018/01/ielts-speaking-part-2-tree-description.html). I've already listed the good vocabulary from the description [here](https://ielts-simon.com/ielts-help-and-english-pr/2018/01/ielts-vocabulary-review-of-this-week.html), so let's focus on grammar.
+
+Here are three grammar points from my description:
+
+1) I used a variety of verb tenses
+
+- **Future:** I'm going to talk about / I'll also describe
+
+- **Present simple:** This is / they are / I have / it symbolises
+
+- **Past simple:** I went, it was
+
+- **Present perfect:** that I've ever seen
+
+2) I also used some passives
+
+- **Present:** it's thought to be, they can be seen, they are commonly found, wood is used, stories are associated with it
+
+- **Present perfect:** has traditionally been used, hasn't been used, has become known
+
+3) I used pronouns to refer back to nouns already used
+
+- a tree called the Major Oak. This is..., it's thought to be...
+
+- Oaks are very common... they can be seen...
+
+- Sherwood Forest, which is
+
+- a wood that has traditionally been used
+
+- The oak tree is important... because it symbolises... its traditional role
+
+- The Major Oak is famous... stories that are associated with it
+
+## Comments (0)
+

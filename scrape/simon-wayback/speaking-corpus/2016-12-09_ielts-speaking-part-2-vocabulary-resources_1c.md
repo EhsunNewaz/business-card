@@ -1,0 +1,45 @@
+# IELTS Speaking Part 2: vocabulary resources
+
+- **Date:** 2016-12-09 | **আর্কাইভ লিংক:** [2016/12/ielts-speaking-part-2-vocabulary-resources.html](https://web.archive.org/web/20190716172444id_/https://www.ielts-simon.com/ielts-help-and-english-pr/2016/12/ielts-speaking-part-2-vocabulary-resources.html) | **Comments:** 1
+
+## Content
+
+If you're preparing ideas for a question or topic area for part 2 of the speaking test, I recommend starting with one or two key words or ideas. In my video lessons I call these key ideas "themes".
+
+When you have a theme, you can then search for good vocabulary related to that theme. Here are two resources that will help you:
+
+1. A **thesaurus** will give you synonyms and similar words. I use the thesaurus on my computer, but you'll easily find one online if your computer doesn't have a built-in dictionary.
+
+2. The [Oxford Collocation Dictionary](http://oxforddictionary.so8848.com/) will show you words that are often used together with your chosen word; so you'll be able to use your words correctly in longer phrases.
+
+Let's use the 'proud' topic in [this lesson](https://ielts-simon.com/ielts-help-and-english-pr/2016/11/ielts-speaking-part-2-proud-topic.html) as an example.
+
+First, I'll choose two "theme" words: _**proud**_ and **_achievement**_.
+
+From my thesaurus, here are some other words to describe being 'proud':
+
+\- pleased
+
+\- glad
+
+\- delighted
+
+\- overjoyed
+
+\- thrilled
+
+And from the collocation dictionary, some phrases with the word 'achievement':
+
+\- a great / major / outstanding / remarkable / tremendous achievement
+
+\- my proudest achievement
+
+\- a feeling of achievement
+
+\- a sense of achievement
+
+This is just the beginning of my 'theme preparation', but I'm already starting to gather some nice vocabulary for my description. In next Friday's lesson, I'll show you how I include these ideas in a full answer.
+
+## Comments (1)
+
+1. **detustiaki** (2016-12-21): What a great help! I really appreciate it. You are great help to us

@@ -1,0 +1,34 @@
+# IELTS Speaking Part 2: 10-minute plan
+
+- **Date:** 2017-12-30 | **আর্কাইভ লিংক:** [2017/12/ielts-speaking-part-2-10-minute-plan.html](https://web.archive.org/web/20190716160942id_/https://www.ielts-simon.com/ielts-help-and-english-pr/2017/12/ielts-speaking-part-2-10-minute-plan.html) | **Comments:** 0
+
+## Content
+
+Yesterday I suggested that you try giving yourself more time to plan your part 2 answers. I tried giving myself 10 minutes to prepare ideas for the task below.
+
+_**Describe a plant, flower or tree that is famous or important in your country.**_
+
+_**You should say**_
+
+_**\- what type of plant, flower or tree it is**_
+
+_**\- where it grows or is usually seen**_
+
+_**\- how it is used in your country**_
+
+_**\- and why it is famous or important**_
+
+Here's my 10-minute plan:
+
+- Oak tree, specifically the Major Oak in Sherwood Forest, a famous tree, tourist attraction, perhaps 1000 years old, huge trunk and branches.
+
+- Oaks grow all over the country, in parks etc., a common tree in England. Major Oak in Sherwood forest near Nottingham, unusual to see one so large, wide and thick.
+
+- Oak furniture, building beams, strong, reliable wood e.g. I have an oak table and wardrobe at home. Major Oak is a tourist attraction, people visit to marvel at it e.g. I went there on a school trip as a child.
+
+- Oaks symbolise history, strength, solidity, reliability, often used in building names e.g. Oak House. Major Oak was supposedly Robin Hood's hideout, one of the biggest of this type of tree, old, historic, mythical status, legendary, Britain's favourite tree, important to the local tourism industry.
+
+Notice that I took ideas from [this](https://ielts-simon.com/ielts-help-and-english-pr/2017/12/ielts-reading-gap-fill-with-words-from-the-box.html) reading task. I'll use the plan above when I give my full sample answer in next Friday's lesson.
+
+## Comments (0)
+

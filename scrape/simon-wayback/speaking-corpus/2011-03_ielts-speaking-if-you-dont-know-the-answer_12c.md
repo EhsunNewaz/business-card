@@ -1,0 +1,22 @@
+# IELTS Speaking: if you don't know the answer
+
+- **Date:** 2011-03 | **আর্কাইভ লিংক:** [2011/03/ielts-speaking-if-you-dont-know-the-answer.html](https://web.archive.org/web/2021/https://www.ielts-simon.com/ielts-help-and-english-pr/2011/03/ielts-speaking-if-you-dont-know-the-answer.html) | **Comments:** 12
+
+## Content
+
+*(এই পোস্টের বডি এখনো ধরা পড়েনি — মাস-ইনডেক্স ফেচ করা বাকি)*
+
+## Comments (12)
+
+1. **Simon** (2011-04-13): Hi Fazrath, I think they just wanted you to give some examples of companies e.g. "We have car manufacturers such as Ford and Toyota". 'Private and public' was a bit too general - the examiner wanted to hear more information. Just say that you learnt science at secondary school, and give an example of what you did in science lessons.
+2. **fazrath Hameed** (2011-04-13): Hi Simon, Thank you very much for the tips. I am sure it will help me. When I did speaking test last time, they asked me "what types of companies do you have in your country?". I started to answer by saying private and public. but, she repeated the question again. I was stuck and didn't know what to answer. Can you pls help me with this question? Thank You. PS: They also asked "How did you learn science?" How do I answer this? Regards, Fazrath
+3. **Simon** (2011-03-31): Hi Rawan, It doesn't mean that you failed - I think the examiner just decided that there wasn't enough time to explain and do the last question, so don't worry about it. Examiners give 4 different scores (with no 0.5 scores) - the 0.5 scores are the result of adding the 4 different scores together and finding the average. I think 5.7 would be 5.5 and 5.75 would be 6. Hope this helps
+4. **rawan** (2011-03-31): Hi simon I want to say thanks for your amazing web site , it helps me in the real exam , but I need to ask you about my exam which I did it today , the examener was helpful and friendly with me but she asked me the last qustion about environment and I did not know what did she need exactly , so I asked her to clarify her question she said ok thank you and good luck what does it main ? I fell or what ? another question I have heard that the exameners do not give students 6,5 or 5,5 or 7.5 just 5,6,7 so , is that right ? and if I take overall 5,7 will they give me 6 or 5.5 ? Thanks
+5. **Simon** (2011-03-30): No problem Bim.
+6. **Bim** (2011-03-29): Hi Simon! Great topic! As someone try to find the nice answers for questions, this vocabulary is the solution for others who do not find exactly answer. I am trying to have a broad idiolect. Thank you!
+7. **Simon** (2011-03-28): Thanks Aneel. ... Hi Adverb, Yes, it's "written English" style, so it wouldn't sound natural in conversation. Just note the main ideas/ good vocabulary from it, and practise doing the description with only the notes to help you. ... Hi Sara, Try livemocha.com I've never tried it myself, but I've heard people talking about it. Also try Salih's link to sharedtalk.com Thanks Salih! ... Hi Sayem, I think you could talk about anything - it doesn't need to be true e.g. you could say that someone bought you a pair of shoes that you didn't like, and explain why not.
+8. **Salih** (2011-03-27): Hi Sara, once I tried this: www.sharedtalk.com However, Simon has the wisest opinion. He may help
+9. **SAYEM** (2011-03-27): Dear Simon, Recently I've got a question in speaking part 2 that is "Describe a gift/present you have received that you didn't use" I didn't find any idea that what should be talk. Please give an idea about that topic
+10. **Sara** (2011-03-27): Hi Simon, Could you tell me if you know any wibsite that I can do an online conversation, please? Thanks in advance,
+11. **Sara** (2011-03-27): Hi Simon, Could you tel me if you know any website that I can make a conversation online by a native speaker. Thank you in advance.
+12. **adverb** (2011-03-27): Hi, Simon. I am preparing for the following topic. And I have gathered some information that I want to talk about, but I would like to know if it sounds too formal to you as a native speaker of English. Please help me. An extreme sport Bungee jumping (also spelled "Bungy" jumping) is an activity that involves jumping from a tall structure while connected to a large elastic cord. ...

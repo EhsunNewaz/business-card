@@ -1,0 +1,28 @@
+# IELTS Speaking Part 1: 'public transport' answers
+
+- **Date:** 2018-02-09 | **আর্কাইভ লিংক:** [2018/02/ielts-speaking-part-1-public-transport-answers.html](https://web.archive.org/web/20190818231733id_/https://www.ielts-simon.com/ielts-help-and-english-pr/2018/02/ielts-speaking-part-1-public-transport-answers.html) | **Comments:** 0
+
+## Content
+
+Here are my answers to the questions that I showed you last Friday:
+
+_**1) Do you use public transport? Why / why not?**_
+
+These days I mostly drive, and the main reason is that my usual journeys are much faster by car. For example, the half-hour drive that I do twice a week would take me three times as long by train and bus.
+
+_**2) Which type of public transport do you prefer? Why?**_
+
+I definitely prefer the train. I like being able to stroll up and down, and on some trains I can book a seat with a table and a socket, so that I can do some work.
+
+_**3) How good is the public transport where you live?**_
+
+It's quite good. There's a train station not far from my house, and it's a direct line straight into the city centre. There are lots of
+
+bus routes too, and there's even a tram network in the centre of Manchester.
+
+_**4) Do you think people should use public transport more? Why / why not?**_
+
+Yes, as long as it's convenient for them. Public transport is obviously more environmentally friendly than private cars, so we could reduce air pollution by using it more.
+
+## Comments (0)
+

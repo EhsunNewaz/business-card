@@ -1,0 +1,22 @@
+# IELTS Speaking Part 3: 'difficult jobs' answers
+
+- **Date:** 2019-12-06 | **আর্কাইভ লিংক:** [2019/12/ielts-speaking-part-3-difficult-jobs-answers.html](https://web.archive.org/web/20191213045252id_/https://www.ielts-simon.com/ielts-help-and-english-pr/2019/12/ielts-speaking-part-3-difficult-jobs-answers.html) | **Comments:** 0
+
+## Content
+
+Here are my sample answers to the questions in last Friday's lesson. Can you find any useful vocabulary in my responses?
+
+_**What are the most difficult jobs that people do?**_
+
+I think jobs can be hard for various different reasons. Some professions, such as concert pianist or surgeon, are difficult in the sense that they require a high level of skill that must be developed through many years of study and practice. On the other hand, jobs like police officer, firefighter or soldier might not require such high skill levels, but they are known to be extremely stressful and sometimes traumatic.
+
+_**Why do you think some people choose to do difficult jobs?**_
+
+I suppose we all want to do something meaningful. For some people, this means achieving a great ambition that takes years of hard work. People who choose dangerous jobs might do so for altruistic reasons or because they feel it's their duty to contribute to society.
+
+_**Do you agree or disagree that all jobs are difficult sometimes?**_
+
+I would have to disagree with that. I think we all feel that our jobs are difficult or stressful at times, but in the grand scheme of things we have nothing to complain about. A tight deadline or a lost computer file are really just minor inconveniences when compared with the horrors of war that soldiers face, or the life-and-death situations that paramedics see every day.
+
+## Comments (0)
+

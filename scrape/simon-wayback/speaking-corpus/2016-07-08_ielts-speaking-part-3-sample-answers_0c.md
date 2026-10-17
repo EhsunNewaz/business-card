@@ -1,0 +1,18 @@
+# IELTS Speaking Part 3: sample answers
+
+- **Date:** 2016-07-08 | **আর্কাইভ লিংক:** [2016/07/ielts-speaking-part-3-sample-answers.html](https://web.archive.org/web/20190716165755id_/https://www.ielts-simon.com/ielts-help-and-english-pr/2016/07/ielts-speaking-part-3-sample-answers.html) | **Comments:** 0
+
+## Content
+
+Here are my sample answers to the questions in last week's lesson. I've used the 'long answer' steps that I always recommend for part 3.
+
+_1) Do you think there are too many game shows on TV nowadays? Why?_
+
+**(answer)** Yes, there are far too many game shows on TV for my liking. **(explain)** I suppose the channels show these programmes because they are popular, and they must be very profitable. **(example)** A good example is 'Who wants to be a millionaire?', which has been sold to TV channels across the world. **(alternative)** Personally, I'm not a fan of game shows, and I'd much rather watch a film or an original drama series.
+
+_2) Do you think that people pay attention to adverts on TV? Why?_
+
+**(answer)** Yes, I think we are all influenced to some extent by TV adverts, otherwise companies wouldn't pay so much to have them shown. **(explain)** Advertisers are very good at making us believe that their products or services will improve our lives in some way. **(example)** For example, if you see an advert for a new phone, it plants a seed in your mind, and you start to wonder about upgrading your old phone.
+
+## Comments (0)
+

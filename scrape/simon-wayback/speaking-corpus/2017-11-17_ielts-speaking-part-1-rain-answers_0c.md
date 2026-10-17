@@ -1,0 +1,26 @@
+# IELTS Speaking Part 1: 'rain' answers
+
+- **Date:** 2017-11-17 | **আর্কাইভ লিংক:** [2017/11/ielts-speaking-part-1-rain-answers.html](https://web.archive.org/web/20190716172024id_/https://www.ielts-simon.com/ielts-help-and-english-pr/2017/11/ielts-speaking-part-1-rain-answers.html) | **Comments:** 0
+
+## Content
+
+Here are my answers to the 'rain' questions from last Friday's lesson. Remember: there's no need to show off in this part of the speaking test, so short, simple answers are best.
+
+_**1) Do you like rain? Why / why not?**_
+
+No, not at all. It rains far too often in Manchester, where I live, and I'm fed up of it; I wish we had more sun!
+
+_**2) Do you think that rain affects people's mood?**_
+
+Yes, definitely. I think rainy days and grey skies can be a bit sad and depressing. Where I live, people are much more cheerful when the sun comes out.
+
+_**3) Does it often rain where you live?**_
+
+Yes, unfortunately it does. As I said, Manchester is known for being a rainy place; you can't trust the weather here, because it can cloud over and start raining at any moment.
+
+_**4) Have you ever been caught in the rain without a coat or umbrella?**_
+
+Yes, many times. Just last week I went out without an umbrella and got soaked; I did have a coat on, but it didn't really help.
+
+## Comments (0)
+

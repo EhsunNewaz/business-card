@@ -1,0 +1,22 @@
+# IELTS Speaking Part 3: 'money' answers
+
+- **Date:** 2018-07-06 | **আর্কাইভ লিংক:** [2018/07/ielts-speaking-part-3-money-answers.html](https://web.archive.org/web/20191016081122id_/https://www.ielts-simon.com/ielts-help-and-english-pr/2018/07/ielts-speaking-part-3-money-answers.html) | **Comments:** 0
+
+## Content
+
+Here are my (band 9) sample answers to the 'money' questions that I shared a few weeks ago.
+
+_**1\. Why is it important for people to save some of their money?**_
+
+In the long term I think it's important to save for retirement, but it's also a good idea to have a certain amount of money saved so that you can deal with unexpected problems in the less distant future. For example, I've learnt to put some money aside for car repairs, and this came in useful recently when I needed to have my car's brake pads changed. If I hadn't had savings, the cost of getting my car repaired could have sent me into the red.
+
+_**2\. In your view, should children be taught how to manage money?**_
+
+Not at school, no. I believe it's the job of parents to gradually teach children that kind of thing, or perhaps there's no need for anyone to teach children about money because they learn about it naturally as they grow up. For example, I remember being given money to buy sweets or an ice cream when I was a child, and I soon learnt what I could afford and what I couldn't.
+
+_**3\. Do you think that girls are better at saving money than boys?**_
+
+I've never thought about that before. I don't see any reason why girls would be better savers than boys or vice versa. I suppose it depends more on the personality of each individual and what their interests are. For example, a child who likes cheap toys might not think about saving, whereas a child who wants to buy something expensive, like a bike or a games console, might summon the willpower to save up!
+
+## Comments (0)
+
